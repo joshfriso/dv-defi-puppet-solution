@@ -86,6 +86,21 @@ Working through the Puppet challenge reinforced a simple truth: any on-chain ora
 
 This case study serves as both a cautionary tale and a blueprint for hardening production DeFi systems against flash manipulation risks.
 
+## Hasil Test (CLI Output)
+
+```bash
+[⠒] Compiling...
+[⠰] Compiling 1 files with Solc 0.8.25
+[⠔] Solc 0.8.25 finished in 1.26s
+Compiler run successful!
+
+Ran 2 tests for test/puppet/Puppet.t.sol:PuppetChallenge
+[PASS] test_assertInitialState() (gas: 49224)
+[PASS] test_puppet() (gas: 159910)
+Suite result: ok. 2 passed; 0 failed; 0 skipped; finished in 2.95ms (375.20µs CPU time)
+
+Ran 1 test suite in 16.13ms (2.95ms CPU time): 2 tests passed, 0 failed, 0 skipped (2 total tests)
+
 
 
 
