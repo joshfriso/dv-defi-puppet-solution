@@ -86,7 +86,7 @@ Working through the Puppet challenge reinforced a simple truth: any on-chain ora
 
 This case study serves as both a cautionary tale and a blueprint for hardening production DeFi systems against flash manipulation risks.
 
-## Hasil Test (CLI Output)
+## Test (CLI Output)
 
 ```bash
 [⠒] Compiling...
